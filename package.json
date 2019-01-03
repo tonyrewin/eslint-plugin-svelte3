@@ -19,6 +19,6 @@
 		"url": "https://github.com/Conduitry/eslint-plugin-svelte3/issues"
 	},
 	"peerDependencies": {
-		"svelte": "^3"
+		"svelte": "^3.0.0"
 	}
 }
